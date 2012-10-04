@@ -1,0 +1,270 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		254381F5161D49400071A415 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 254381F4161D49400071A415 /* UIKit.framework */; };
+		254381F7161D49400071A415 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 254381F6161D49400071A415 /* Foundation.framework */; };
+		254381F9161D49400071A415 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 254381F8161D49400071A415 /* CoreGraphics.framework */; };
+		254381FF161D49400071A415 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 254381FD161D49400071A415 /* InfoPlist.strings */; };
+		25438201161D49400071A415 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 25438200161D49400071A415 /* main.m */; };
+		25438205161D49400071A415 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 25438204161D49400071A415 /* AppDelegate.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		254381F0161D49400071A415 /* 8BitRan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 8BitRan.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		254381F4161D49400071A415 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		254381F6161D49400071A415 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		254381F8161D49400071A415 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		254381FC161D49400071A415 /* 8BitRan-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "8BitRan-Info.plist"; sourceTree = "<group>"; };
+		254381FE161D49400071A415 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		25438200161D49400071A415 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		25438202161D49400071A415 /* 8BitRan-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "8BitRan-Prefix.pch"; sourceTree = "<group>"; };
+		25438203161D49400071A415 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		25438204161D49400071A415 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		254381ED161D49400071A415 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				254381F5161D49400071A415 /* UIKit.framework in Frameworks */,
+				254381F7161D49400071A415 /* Foundation.framework in Frameworks */,
+				254381F9161D49400071A415 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		254381E5161D49400071A415 = {
+			isa = PBXGroup;
+			children = (
+				254381FA161D49400071A415 /* 8BitRan */,
+				254381F3161D49400071A415 /* Frameworks */,
+				254381F1161D49400071A415 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		254381F1161D49400071A415 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				254381F0161D49400071A415 /* 8BitRan.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		254381F3161D49400071A415 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				254381F4161D49400071A415 /* UIKit.framework */,
+				254381F6161D49400071A415 /* Foundation.framework */,
+				254381F8161D49400071A415 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		254381FA161D49400071A415 /* 8BitRan */ = {
+			isa = PBXGroup;
+			children = (
+				25438203161D49400071A415 /* AppDelegate.h */,
+				25438204161D49400071A415 /* AppDelegate.m */,
+				254381FB161D49400071A415 /* Supporting Files */,
+			);
+			path = 8BitRan;
+			sourceTree = "<group>";
+		};
+		254381FB161D49400071A415 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				254381FC161D49400071A415 /* 8BitRan-Info.plist */,
+				254381FD161D49400071A415 /* InfoPlist.strings */,
+				25438200161D49400071A415 /* main.m */,
+				25438202161D49400071A415 /* 8BitRan-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		254381EF161D49400071A415 /* 8BitRan */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 25438208161D49400071A415 /* Build configuration list for PBXNativeTarget "8BitRan" */;
+			buildPhases = (
+				254381EC161D49400071A415 /* Sources */,
+				254381ED161D49400071A415 /* Frameworks */,
+				254381EE161D49400071A415 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = 8BitRan;
+			productName = 8BitRan;
+			productReference = 254381F0161D49400071A415 /* 8BitRan.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		254381E7161D49400071A415 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0440;
+				ORGANIZATIONNAME = "Ran Tao";
+			};
+			buildConfigurationList = 254381EA161D49400071A415 /* Build configuration list for PBXProject "8BitRan" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 254381E5161D49400071A415;
+			productRefGroup = 254381F1161D49400071A415 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				254381EF161D49400071A415 /* 8BitRan */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		254381EE161D49400071A415 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				254381FF161D49400071A415 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		254381EC161D49400071A415 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				25438201161D49400071A415 /* main.m in Sources */,
+				25438205161D49400071A415 /* AppDelegate.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		254381FD161D49400071A415 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				254381FE161D49400071A415 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		25438206161D49400071A415 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		25438207161D49400071A415 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		25438209161D49400071A415 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "8BitRan/8BitRan-Prefix.pch";
+				INFOPLIST_FILE = "8BitRan/8BitRan-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		2543820A161D49400071A415 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "8BitRan/8BitRan-Prefix.pch";
+				INFOPLIST_FILE = "8BitRan/8BitRan-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		254381EA161D49400071A415 /* Build configuration list for PBXProject "8BitRan" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				25438206161D49400071A415 /* Debug */,
+				25438207161D49400071A415 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		25438208161D49400071A415 /* Build configuration list for PBXNativeTarget "8BitRan" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				25438209161D49400071A415 /* Debug */,
+				2543820A161D49400071A415 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 254381E7161D49400071A415 /* Project object */;
+}
