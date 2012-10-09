@@ -7,15 +7,108 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		250CD1ED161E255A00F03111 /* sfx0.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1C0161E255900F03111 /* sfx0.wav */; };
+		250CD1EE161E255A00F03111 /* sfx1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1C1161E255900F03111 /* sfx1.wav */; };
+		250CD1EF161E255A00F03111 /* sfx2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1C2161E255900F03111 /* sfx2.wav */; };
+		250CD1F0161E255A00F03111 /* sfx3.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1C3161E255900F03111 /* sfx3.wav */; };
+		250CD1F1161E255A00F03111 /* sfx4.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1C4161E255900F03111 /* sfx4.wav */; };
+		250CD1F2161E255A00F03111 /* sfx5.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1C5161E255900F03111 /* sfx5.wav */; };
+		250CD1F3161E255A00F03111 /* sfx6.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1C6161E255900F03111 /* sfx6.wav */; };
+		250CD1F4161E255A00F03111 /* sfx7.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1C7161E255900F03111 /* sfx7.wav */; };
+		250CD1F5161E255A00F03111 /* sfx8.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1C8161E255900F03111 /* sfx8.wav */; };
+		250CD1F6161E255A00F03111 /* sfx9.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1C9161E255900F03111 /* sfx9.wav */; };
+		250CD1F7161E255A00F03111 /* sfx10.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1CA161E255900F03111 /* sfx10.wav */; };
+		250CD1F8161E255A00F03111 /* sfx11.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1CB161E255900F03111 /* sfx11.wav */; };
+		250CD1F9161E255A00F03111 /* sfx12.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1CC161E255900F03111 /* sfx12.wav */; };
+		250CD1FA161E255A00F03111 /* sfx13.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1CD161E255900F03111 /* sfx13.wav */; };
+		250CD1FB161E255A00F03111 /* sfx14.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1CE161E255900F03111 /* sfx14.wav */; };
+		250CD1FC161E255A00F03111 /* sfx15.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1CF161E255900F03111 /* sfx15.wav */; };
+		250CD1FD161E255A00F03111 /* sfx16.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1D0161E255900F03111 /* sfx16.wav */; };
+		250CD1FE161E255A00F03111 /* sfx17.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1D1161E255900F03111 /* sfx17.wav */; };
+		250CD1FF161E255A00F03111 /* sfx18.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1D2161E255900F03111 /* sfx18.wav */; };
+		250CD200161E255A00F03111 /* sfx19.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1D3161E255900F03111 /* sfx19.wav */; };
+		250CD201161E255A00F03111 /* sfx20.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1D4161E255900F03111 /* sfx20.wav */; };
+		250CD202161E255A00F03111 /* sfx21.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1D5161E255900F03111 /* sfx21.wav */; };
+		250CD203161E255A00F03111 /* sfx22.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1D6161E255900F03111 /* sfx22.wav */; };
+		250CD204161E255A00F03111 /* sfx23.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1D7161E255900F03111 /* sfx23.wav */; };
+		250CD205161E255A00F03111 /* sfx24.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1D8161E255900F03111 /* sfx24.wav */; };
+		250CD206161E255A00F03111 /* sfx25.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1D9161E255900F03111 /* sfx25.wav */; };
+		250CD207161E255A00F03111 /* sfx26.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1DA161E255900F03111 /* sfx26.wav */; };
+		250CD208161E255A00F03111 /* sfx27.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1DB161E255900F03111 /* sfx27.wav */; };
+		250CD209161E255A00F03111 /* sfx28.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1DC161E255900F03111 /* sfx28.wav */; };
+		250CD20A161E255A00F03111 /* sfx29.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1DD161E255900F03111 /* sfx29.wav */; };
+		250CD20B161E255A00F03111 /* sfx30.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1DE161E255900F03111 /* sfx30.wav */; };
+		250CD20C161E255A00F03111 /* sfx31.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1DF161E255900F03111 /* sfx31.wav */; };
+		250CD20D161E255A00F03111 /* sfx32.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1E0161E255900F03111 /* sfx32.wav */; };
+		250CD20E161E255A00F03111 /* sfx33.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1E1161E255900F03111 /* sfx33.wav */; };
+		250CD20F161E255A00F03111 /* sfx34.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1E2161E255900F03111 /* sfx34.wav */; };
+		250CD210161E255A00F03111 /* sfx35.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1E3161E255900F03111 /* sfx35.wav */; };
+		250CD211161E255A00F03111 /* sfx36.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1E4161E255900F03111 /* sfx36.wav */; };
+		250CD212161E255A00F03111 /* sfx37.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1E5161E255900F03111 /* sfx37.wav */; };
+		250CD213161E255A00F03111 /* sfx38.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1E6161E255900F03111 /* sfx38.wav */; };
+		250CD214161E255A00F03111 /* sfx39.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1E7161E255900F03111 /* sfx39.wav */; };
+		250CD215161E255A00F03111 /* sfx40.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1E8161E255900F03111 /* sfx40.wav */; };
+		250CD216161E255A00F03111 /* sfx41.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1E9161E255900F03111 /* sfx41.wav */; };
+		250CD217161E255A00F03111 /* sfx42.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1EA161E255900F03111 /* sfx42.wav */; };
+		250CD218161E255A00F03111 /* sfx43.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1EB161E255900F03111 /* sfx43.wav */; };
+		250CD219161E255A00F03111 /* sfx44.wav in Resources */ = {isa = PBXBuildFile; fileRef = 250CD1EC161E255900F03111 /* sfx44.wav */; };
 		254381F5161D49400071A415 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 254381F4161D49400071A415 /* UIKit.framework */; };
 		254381F7161D49400071A415 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 254381F6161D49400071A415 /* Foundation.framework */; };
 		254381F9161D49400071A415 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 254381F8161D49400071A415 /* CoreGraphics.framework */; };
 		254381FF161D49400071A415 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 254381FD161D49400071A415 /* InfoPlist.strings */; };
 		25438201161D49400071A415 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 25438200161D49400071A415 /* main.m */; };
 		25438205161D49400071A415 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 25438204161D49400071A415 /* AppDelegate.m */; };
+		25438210161D49ED0071A415 /* EightBitRanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2543820F161D49ED0071A415 /* EightBitRanViewController.m */; };
+		25438212161D4BC40071A415 /* bitfont.TTF in Resources */ = {isa = PBXBuildFile; fileRef = 25438211161D4A280071A415 /* bitfont.TTF */; };
+		2543821B161D532C0071A415 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2543821A161D532C0071A415 /* AVFoundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		250CD1C0161E255900F03111 /* sfx0.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx0.wav; path = sound2/sfx0.wav; sourceTree = "<group>"; };
+		250CD1C1161E255900F03111 /* sfx1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx1.wav; path = sound2/sfx1.wav; sourceTree = "<group>"; };
+		250CD1C2161E255900F03111 /* sfx2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx2.wav; path = sound2/sfx2.wav; sourceTree = "<group>"; };
+		250CD1C3161E255900F03111 /* sfx3.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx3.wav; path = sound2/sfx3.wav; sourceTree = "<group>"; };
+		250CD1C4161E255900F03111 /* sfx4.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx4.wav; path = sound2/sfx4.wav; sourceTree = "<group>"; };
+		250CD1C5161E255900F03111 /* sfx5.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx5.wav; path = sound2/sfx5.wav; sourceTree = "<group>"; };
+		250CD1C6161E255900F03111 /* sfx6.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx6.wav; path = sound2/sfx6.wav; sourceTree = "<group>"; };
+		250CD1C7161E255900F03111 /* sfx7.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx7.wav; path = sound2/sfx7.wav; sourceTree = "<group>"; };
+		250CD1C8161E255900F03111 /* sfx8.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx8.wav; path = sound2/sfx8.wav; sourceTree = "<group>"; };
+		250CD1C9161E255900F03111 /* sfx9.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx9.wav; path = sound2/sfx9.wav; sourceTree = "<group>"; };
+		250CD1CA161E255900F03111 /* sfx10.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx10.wav; path = sound2/sfx10.wav; sourceTree = "<group>"; };
+		250CD1CB161E255900F03111 /* sfx11.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx11.wav; path = sound2/sfx11.wav; sourceTree = "<group>"; };
+		250CD1CC161E255900F03111 /* sfx12.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx12.wav; path = sound2/sfx12.wav; sourceTree = "<group>"; };
+		250CD1CD161E255900F03111 /* sfx13.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx13.wav; path = sound2/sfx13.wav; sourceTree = "<group>"; };
+		250CD1CE161E255900F03111 /* sfx14.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx14.wav; path = sound2/sfx14.wav; sourceTree = "<group>"; };
+		250CD1CF161E255900F03111 /* sfx15.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx15.wav; path = sound2/sfx15.wav; sourceTree = "<group>"; };
+		250CD1D0161E255900F03111 /* sfx16.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx16.wav; path = sound2/sfx16.wav; sourceTree = "<group>"; };
+		250CD1D1161E255900F03111 /* sfx17.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx17.wav; path = sound2/sfx17.wav; sourceTree = "<group>"; };
+		250CD1D2161E255900F03111 /* sfx18.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx18.wav; path = sound2/sfx18.wav; sourceTree = "<group>"; };
+		250CD1D3161E255900F03111 /* sfx19.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx19.wav; path = sound2/sfx19.wav; sourceTree = "<group>"; };
+		250CD1D4161E255900F03111 /* sfx20.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx20.wav; path = sound2/sfx20.wav; sourceTree = "<group>"; };
+		250CD1D5161E255900F03111 /* sfx21.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx21.wav; path = sound2/sfx21.wav; sourceTree = "<group>"; };
+		250CD1D6161E255900F03111 /* sfx22.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx22.wav; path = sound2/sfx22.wav; sourceTree = "<group>"; };
+		250CD1D7161E255900F03111 /* sfx23.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx23.wav; path = sound2/sfx23.wav; sourceTree = "<group>"; };
+		250CD1D8161E255900F03111 /* sfx24.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx24.wav; path = sound2/sfx24.wav; sourceTree = "<group>"; };
+		250CD1D9161E255900F03111 /* sfx25.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx25.wav; path = sound2/sfx25.wav; sourceTree = "<group>"; };
+		250CD1DA161E255900F03111 /* sfx26.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx26.wav; path = sound2/sfx26.wav; sourceTree = "<group>"; };
+		250CD1DB161E255900F03111 /* sfx27.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx27.wav; path = sound2/sfx27.wav; sourceTree = "<group>"; };
+		250CD1DC161E255900F03111 /* sfx28.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx28.wav; path = sound2/sfx28.wav; sourceTree = "<group>"; };
+		250CD1DD161E255900F03111 /* sfx29.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx29.wav; path = sound2/sfx29.wav; sourceTree = "<group>"; };
+		250CD1DE161E255900F03111 /* sfx30.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx30.wav; path = sound2/sfx30.wav; sourceTree = "<group>"; };
+		250CD1DF161E255900F03111 /* sfx31.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx31.wav; path = sound2/sfx31.wav; sourceTree = "<group>"; };
+		250CD1E0161E255900F03111 /* sfx32.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx32.wav; path = sound2/sfx32.wav; sourceTree = "<group>"; };
+		250CD1E1161E255900F03111 /* sfx33.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx33.wav; path = sound2/sfx33.wav; sourceTree = "<group>"; };
+		250CD1E2161E255900F03111 /* sfx34.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx34.wav; path = sound2/sfx34.wav; sourceTree = "<group>"; };
+		250CD1E3161E255900F03111 /* sfx35.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx35.wav; path = sound2/sfx35.wav; sourceTree = "<group>"; };
+		250CD1E4161E255900F03111 /* sfx36.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx36.wav; path = sound2/sfx36.wav; sourceTree = "<group>"; };
+		250CD1E5161E255900F03111 /* sfx37.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx37.wav; path = sound2/sfx37.wav; sourceTree = "<group>"; };
+		250CD1E6161E255900F03111 /* sfx38.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx38.wav; path = sound2/sfx38.wav; sourceTree = "<group>"; };
+		250CD1E7161E255900F03111 /* sfx39.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx39.wav; path = sound2/sfx39.wav; sourceTree = "<group>"; };
+		250CD1E8161E255900F03111 /* sfx40.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx40.wav; path = sound2/sfx40.wav; sourceTree = "<group>"; };
+		250CD1E9161E255900F03111 /* sfx41.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx41.wav; path = sound2/sfx41.wav; sourceTree = "<group>"; };
+		250CD1EA161E255900F03111 /* sfx42.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx42.wav; path = sound2/sfx42.wav; sourceTree = "<group>"; };
+		250CD1EB161E255900F03111 /* sfx43.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx43.wav; path = sound2/sfx43.wav; sourceTree = "<group>"; };
+		250CD1EC161E255900F03111 /* sfx44.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = sfx44.wav; path = sound2/sfx44.wav; sourceTree = "<group>"; };
 		254381F0161D49400071A415 /* 8BitRan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 8BitRan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		254381F4161D49400071A415 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		254381F6161D49400071A415 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -26,6 +119,10 @@
 		25438202161D49400071A415 /* 8BitRan-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "8BitRan-Prefix.pch"; sourceTree = "<group>"; };
 		25438203161D49400071A415 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		25438204161D49400071A415 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		2543820E161D49ED0071A415 /* EightBitRanViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EightBitRanViewController.h; sourceTree = "<group>"; };
+		2543820F161D49ED0071A415 /* EightBitRanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EightBitRanViewController.m; sourceTree = "<group>"; };
+		25438211161D4A280071A415 /* bitfont.TTF */ = {isa = PBXFileReference; lastKnownFileType = file; path = bitfont.TTF; sourceTree = "<group>"; };
+		2543821A161D532C0071A415 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,6 +130,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2543821B161D532C0071A415 /* AVFoundation.framework in Frameworks */,
 				254381F5161D49400071A415 /* UIKit.framework in Frameworks */,
 				254381F7161D49400071A415 /* Foundation.framework in Frameworks */,
 				254381F9161D49400071A415 /* CoreGraphics.framework in Frameworks */,
@@ -62,6 +160,7 @@
 		254381F3161D49400071A415 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				2543821A161D532C0071A415 /* AVFoundation.framework */,
 				254381F4161D49400071A415 /* UIKit.framework */,
 				254381F6161D49400071A415 /* Foundation.framework */,
 				254381F8161D49400071A415 /* CoreGraphics.framework */,
@@ -74,6 +173,9 @@
 			children = (
 				25438203161D49400071A415 /* AppDelegate.h */,
 				25438204161D49400071A415 /* AppDelegate.m */,
+				2543820E161D49ED0071A415 /* EightBitRanViewController.h */,
+				2543820F161D49ED0071A415 /* EightBitRanViewController.m */,
+				2543821C161D53AA0071A415 /* 8bit samples */,
 				254381FB161D49400071A415 /* Supporting Files */,
 			);
 			path = 8BitRan;
@@ -82,12 +184,65 @@
 		254381FB161D49400071A415 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				25438211161D4A280071A415 /* bitfont.TTF */,
 				254381FC161D49400071A415 /* 8BitRan-Info.plist */,
 				254381FD161D49400071A415 /* InfoPlist.strings */,
 				25438200161D49400071A415 /* main.m */,
 				25438202161D49400071A415 /* 8BitRan-Prefix.pch */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		2543821C161D53AA0071A415 /* 8bit samples */ = {
+			isa = PBXGroup;
+			children = (
+				250CD1C0161E255900F03111 /* sfx0.wav */,
+				250CD1C1161E255900F03111 /* sfx1.wav */,
+				250CD1C2161E255900F03111 /* sfx2.wav */,
+				250CD1C3161E255900F03111 /* sfx3.wav */,
+				250CD1C4161E255900F03111 /* sfx4.wav */,
+				250CD1C5161E255900F03111 /* sfx5.wav */,
+				250CD1C6161E255900F03111 /* sfx6.wav */,
+				250CD1C7161E255900F03111 /* sfx7.wav */,
+				250CD1C8161E255900F03111 /* sfx8.wav */,
+				250CD1C9161E255900F03111 /* sfx9.wav */,
+				250CD1CA161E255900F03111 /* sfx10.wav */,
+				250CD1CB161E255900F03111 /* sfx11.wav */,
+				250CD1CC161E255900F03111 /* sfx12.wav */,
+				250CD1CD161E255900F03111 /* sfx13.wav */,
+				250CD1CE161E255900F03111 /* sfx14.wav */,
+				250CD1CF161E255900F03111 /* sfx15.wav */,
+				250CD1D0161E255900F03111 /* sfx16.wav */,
+				250CD1D1161E255900F03111 /* sfx17.wav */,
+				250CD1D2161E255900F03111 /* sfx18.wav */,
+				250CD1D3161E255900F03111 /* sfx19.wav */,
+				250CD1D4161E255900F03111 /* sfx20.wav */,
+				250CD1D5161E255900F03111 /* sfx21.wav */,
+				250CD1D6161E255900F03111 /* sfx22.wav */,
+				250CD1D7161E255900F03111 /* sfx23.wav */,
+				250CD1D8161E255900F03111 /* sfx24.wav */,
+				250CD1D9161E255900F03111 /* sfx25.wav */,
+				250CD1DA161E255900F03111 /* sfx26.wav */,
+				250CD1DB161E255900F03111 /* sfx27.wav */,
+				250CD1DC161E255900F03111 /* sfx28.wav */,
+				250CD1DD161E255900F03111 /* sfx29.wav */,
+				250CD1DE161E255900F03111 /* sfx30.wav */,
+				250CD1DF161E255900F03111 /* sfx31.wav */,
+				250CD1E0161E255900F03111 /* sfx32.wav */,
+				250CD1E1161E255900F03111 /* sfx33.wav */,
+				250CD1E2161E255900F03111 /* sfx34.wav */,
+				250CD1E3161E255900F03111 /* sfx35.wav */,
+				250CD1E4161E255900F03111 /* sfx36.wav */,
+				250CD1E5161E255900F03111 /* sfx37.wav */,
+				250CD1E6161E255900F03111 /* sfx38.wav */,
+				250CD1E7161E255900F03111 /* sfx39.wav */,
+				250CD1E8161E255900F03111 /* sfx40.wav */,
+				250CD1E9161E255900F03111 /* sfx41.wav */,
+				250CD1EA161E255900F03111 /* sfx42.wav */,
+				250CD1EB161E255900F03111 /* sfx43.wav */,
+				250CD1EC161E255900F03111 /* sfx44.wav */,
+			);
+			name = "8bit samples";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -141,7 +296,53 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25438212161D4BC40071A415 /* bitfont.TTF in Resources */,
 				254381FF161D49400071A415 /* InfoPlist.strings in Resources */,
+				250CD1ED161E255A00F03111 /* sfx0.wav in Resources */,
+				250CD1EE161E255A00F03111 /* sfx1.wav in Resources */,
+				250CD1EF161E255A00F03111 /* sfx2.wav in Resources */,
+				250CD1F0161E255A00F03111 /* sfx3.wav in Resources */,
+				250CD1F1161E255A00F03111 /* sfx4.wav in Resources */,
+				250CD1F2161E255A00F03111 /* sfx5.wav in Resources */,
+				250CD1F3161E255A00F03111 /* sfx6.wav in Resources */,
+				250CD1F4161E255A00F03111 /* sfx7.wav in Resources */,
+				250CD1F5161E255A00F03111 /* sfx8.wav in Resources */,
+				250CD1F6161E255A00F03111 /* sfx9.wav in Resources */,
+				250CD1F7161E255A00F03111 /* sfx10.wav in Resources */,
+				250CD1F8161E255A00F03111 /* sfx11.wav in Resources */,
+				250CD1F9161E255A00F03111 /* sfx12.wav in Resources */,
+				250CD1FA161E255A00F03111 /* sfx13.wav in Resources */,
+				250CD1FB161E255A00F03111 /* sfx14.wav in Resources */,
+				250CD1FC161E255A00F03111 /* sfx15.wav in Resources */,
+				250CD1FD161E255A00F03111 /* sfx16.wav in Resources */,
+				250CD1FE161E255A00F03111 /* sfx17.wav in Resources */,
+				250CD1FF161E255A00F03111 /* sfx18.wav in Resources */,
+				250CD200161E255A00F03111 /* sfx19.wav in Resources */,
+				250CD201161E255A00F03111 /* sfx20.wav in Resources */,
+				250CD202161E255A00F03111 /* sfx21.wav in Resources */,
+				250CD203161E255A00F03111 /* sfx22.wav in Resources */,
+				250CD204161E255A00F03111 /* sfx23.wav in Resources */,
+				250CD205161E255A00F03111 /* sfx24.wav in Resources */,
+				250CD206161E255A00F03111 /* sfx25.wav in Resources */,
+				250CD207161E255A00F03111 /* sfx26.wav in Resources */,
+				250CD208161E255A00F03111 /* sfx27.wav in Resources */,
+				250CD209161E255A00F03111 /* sfx28.wav in Resources */,
+				250CD20A161E255A00F03111 /* sfx29.wav in Resources */,
+				250CD20B161E255A00F03111 /* sfx30.wav in Resources */,
+				250CD20C161E255A00F03111 /* sfx31.wav in Resources */,
+				250CD20D161E255A00F03111 /* sfx32.wav in Resources */,
+				250CD20E161E255A00F03111 /* sfx33.wav in Resources */,
+				250CD20F161E255A00F03111 /* sfx34.wav in Resources */,
+				250CD210161E255A00F03111 /* sfx35.wav in Resources */,
+				250CD211161E255A00F03111 /* sfx36.wav in Resources */,
+				250CD212161E255A00F03111 /* sfx37.wav in Resources */,
+				250CD213161E255A00F03111 /* sfx38.wav in Resources */,
+				250CD214161E255A00F03111 /* sfx39.wav in Resources */,
+				250CD215161E255A00F03111 /* sfx40.wav in Resources */,
+				250CD216161E255A00F03111 /* sfx41.wav in Resources */,
+				250CD217161E255A00F03111 /* sfx42.wav in Resources */,
+				250CD218161E255A00F03111 /* sfx43.wav in Resources */,
+				250CD219161E255A00F03111 /* sfx44.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -154,6 +355,7 @@
 			files = (
 				25438201161D49400071A415 /* main.m in Sources */,
 				25438205161D49400071A415 /* AppDelegate.m in Sources */,
+				25438210161D49ED0071A415 /* EightBitRanViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,6 +465,7 @@
 				2543820A161D49400071A415 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
